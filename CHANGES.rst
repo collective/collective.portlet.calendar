@@ -4,6 +4,9 @@ Changelog
 1.0b4 (unreleased)
 ^^^^^^^^^^^^^^^^^^
 
+- Force th of tr.month in css to be centered to avoid bootstrap conflicts.
+  [idgserpro]
+
 - Fix Subject encoding (so non-ascii characters do not break rendering)
   [ebrehault]
 

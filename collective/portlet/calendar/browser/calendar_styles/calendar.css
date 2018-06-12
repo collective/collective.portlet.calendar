@@ -14,6 +14,10 @@
     padding: 0;
 }
 
+.portletCalendarEx tr.month th {
+    text-align: center;
+}
+
 .portletCalendarEx tr.month {
     background-color: #eee;
     font-weight: bold;
